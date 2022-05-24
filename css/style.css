@@ -1,7 +1,7 @@
  body{margin:0; 
   padding:0;
   font-family: 'Koulen', cursive;
-  line-height:1.5em;
+  line-height:1em;
   background-color:white;
 }
 
@@ -65,7 +65,8 @@ h2 {font-size:40px;
 h3 {margin: 70px 30px 30px 40px;
 }
 
-p {padding:0px 35px 0px 40px}
+p {padding:0px 35px 0px 40px;
+line-height:1.5em;}
 
 #titolo {line-height:1em;
   color:firebrick;
@@ -97,7 +98,7 @@ p {padding:0px 35px 0px 40px}
   margin:30px 50px}
 
 .testo {margin:5px 60px 5px 60px;
-line-height: 1em;}
+line-height:1.5em;}
 
 .sottotitolo {margin: 2px 60px 2px 60px;}
 
